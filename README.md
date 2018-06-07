@@ -2,7 +2,7 @@
 In this repo you find websites which I developed for commercial goals. I worked with these projects at [iguana studio](https://iguanastudio.pl/) and [n-educatio](https://www.n-educatio.pl/) companies.
 > Unfortunately, I can't publish the source code of all of these projects, therefore I publish only links to demo.
 
-## [Presentation page with projects preview](http://poprotsky.eu/github/commercial-realisations)
+## [View presentation page with projects preview](http://poprotsky.eu/github/commercial-realisations)
 
 ## List of my selected commercial realisations
 
