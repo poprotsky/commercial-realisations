@@ -12,6 +12,8 @@ In this repo you find websites which I developed for commercial goals. I worked 
 
 - [Stiga](https://www.stiga.pl/) -  e-commerce for a large seller of garden mowers
 
+- [Tiptopol](https://tiptopol.pl/) - corporate website for large Polish company in automotive industry
+
 - [Find my photographer](https://findmyphotographer.ie/) - Ireland photographers portal
 
 - [Gn-group](http://www.gn-group.pl/) - website for a real estate developer
@@ -23,6 +25,8 @@ In this repo you find websites which I developed for commercial goals. I worked 
 - [Ville bonaparte](http://www.villebonaparte.pl/) - website for a new housing estate
 
 - [Uczkin](http://www.uczkin.pl/) - website for a University Women's Health Center and Newborn
+
+- [Medpolonia](https://medpolonia.com.pl/) - website for clinics and hospitals
 
 - [Zielony solacz](http://www.zielonysolacz.pl/) - website for a new housing estate
 
