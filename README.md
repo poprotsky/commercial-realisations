@@ -1,5 +1,5 @@
 # Commercial realisations
-In this repo you find websites which I developed for commercial goals. I worked with these projects at [iguana studio](https://iguanastudio.pl/) and [n-educatio](https://www.n-educatio.pl/) companies.
+In this repo you find websites which I developed for commercial goals. I worked with these projects at [iguana studio](https://iguanastudio.pl/), [n-educatio](https://www.n-educatio.pl/) and [tenseapp/grupa tense](https://www.tenseapp.pl/) companies.
 > Unfortunately, I can't publish the source code all of these projects, therefore I publish only links to demo.
 
 ## [View presentation page with projects preview](http://poprotsky.eu/github/commercial-realisations)
@@ -12,7 +12,7 @@ In this repo you find websites which I developed for commercial goals. I worked 
 
 - [Stiga](https://www.stiga.pl/) -  e-commerce for a large seller of garden mowers
 
-- [Find my photographer](https://findmyphotographer.ie/) - Ireland photographers portal 
+- [Find my photographer](https://findmyphotographer.ie/) - Ireland photographers portal
 
 - [Gn-group](http://www.gn-group.pl/) - website for a real estate developer
 
