@@ -2,6 +2,8 @@
 In this repo you find websites which I developed for commercial goals. I worked with these projects at [iguana studio](https://iguanastudio.pl/), [n-educatio](https://www.n-educatio.pl/) and [tenseapp/grupa tense](https://www.tenseapp.pl/) companies.
 > Unfortunately, I can't publish the source code all of these projects, therefore I publish only links to demo.
 
+![alt text](http://poprotsky.eu/github/commercial-realisations/preview.jpg)
+
 ## [View presentation page with projects preview](http://poprotsky.eu/github/commercial-realisations)
 
 ## List of my selected commercial realisations
