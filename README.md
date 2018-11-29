@@ -8,7 +8,7 @@ In this repo you find websites which I developed for commercial goals. I worked 
 
 ## List of my selected commercial realisations
 
-- [Digitizer](http://exchange.n-educatio.pl/digitizer/landing_page/) - landing page for the digitizing content app
+- [Digitizer](https://digitizer.n-educatio.pl/) - landing page for the digitizing content app
 
 - [Randkuj.my](https://randkuj.my/) -  Great Britain dating portal
 
